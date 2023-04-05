@@ -135,7 +135,7 @@ footer{
     display: flex;
     width: 60%;
     margin: 0 auto;
-    gap: 400px;
+    gap: 20px;
 }
 .footer-title{
     color: #F8F8F8;
