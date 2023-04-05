@@ -52,7 +52,7 @@ font-size: 20px;
     display: flex;
     align-items: center;
     
-    width: 60%;
+    width: 70%;
     margin: 0 auto;
     gap: 100px;
     padding: 100px 0 ;
@@ -101,7 +101,7 @@ margin-bottom: 50px;
 .my-plan-topic{
     display: flex;
     justify-content: space-around;
-    width: 60%;
+    width: 70%;
     margin: 0 auto;
 }
 .topic-title{
@@ -133,9 +133,9 @@ footer{
 
 .footer-section{
     display: flex;
-    width: 60%;
+    width: 70%;
     margin: 0 auto;
-    gap: 20px;
+    gap: 70px;
 }
 .footer-title{
     color: #F8F8F8;
